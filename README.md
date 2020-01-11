@@ -10,7 +10,7 @@
 python code.py
 ```
 
-
+![image](https://github.com/how8570/Tkinter-practice---wttr.in-GUI/blob/master/preview.png)
 
 - you can search the Area which you want take the look of weather
   by searching bar which below
