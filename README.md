@@ -2,10 +2,10 @@
 
 - this is a gui use the **Weather information** on [wtt.in](http://wttr.in) <br>
   [wtt.in's repo](https://github.com/chubin/wttr.in)
-
-- to use the gui just
-
-  jus trun on the shell and run code.py
+  
+- to use it, just click **weather.exe**
+- if you want run on shell
+  just trun on the shell and run code.py
 
 ```shell
 python code.py
