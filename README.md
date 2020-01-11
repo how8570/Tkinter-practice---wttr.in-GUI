@@ -1,6 +1,7 @@
 # Tkinter practice - wttr.in GUI
 
-- this is a gui use the **Weather information** on [wtt.in](http://wttr.in) [wtt.in's repo](https://github.com/chubin/wttr.in)
+- this is a gui use the **Weather information** on [wtt.in](http://wttr.in) 
+  [wtt.in's repo](https://github.com/chubin/wttr.in)
 
 - to use the gui just
 
