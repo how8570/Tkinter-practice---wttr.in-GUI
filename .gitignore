@@ -1,2 +1,11 @@
 weather.png
 preview.png
+code.spec
+preview.png
+weather.png
+Untitled.ipynb
+
+dist
+.ipynb_checkpoints
+__pycache__
+build
